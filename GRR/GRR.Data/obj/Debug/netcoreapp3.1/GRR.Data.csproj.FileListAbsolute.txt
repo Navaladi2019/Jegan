@@ -1,0 +1,12 @@
+E:\GRR\GRR\GRR.Data\bin\Debug\netcoreapp3.1\GRR.Data.deps.json
+E:\GRR\GRR\GRR.Data\bin\Debug\netcoreapp3.1\GRR.Data.runtimeconfig.json
+E:\GRR\GRR\GRR.Data\bin\Debug\netcoreapp3.1\GRR.Data.runtimeconfig.dev.json
+E:\GRR\GRR\GRR.Data\bin\Debug\netcoreapp3.1\GRR.Data.dll
+E:\GRR\GRR\GRR.Data\bin\Debug\netcoreapp3.1\GRR.Data.pdb
+E:\GRR\GRR\GRR.Data\obj\Debug\netcoreapp3.1\GRR.Data.AssemblyInfoInputs.cache
+E:\GRR\GRR\GRR.Data\obj\Debug\netcoreapp3.1\GRR.Data.AssemblyInfo.cs
+E:\GRR\GRR\GRR.Data\obj\Debug\netcoreapp3.1\GRR.Data.csproj.CoreCompileInputs.cache
+E:\GRR\GRR\GRR.Data\obj\Debug\netcoreapp3.1\GRR.Data.dll
+E:\GRR\GRR\GRR.Data\obj\Debug\netcoreapp3.1\GRR.Data.pdb
+E:\GRR\GRR\GRR.Data\obj\Debug\netcoreapp3.1\GRR.Data.genruntimeconfig.cache
+E:\GRR\GRR\GRR.Data\obj\Debug\netcoreapp3.1\GRR.Data.csprojAssemblyReference.cache

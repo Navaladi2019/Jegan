@@ -1,0 +1,12 @@
+E:\GRR\GRR\GRR.Service\bin\Debug\netcoreapp3.1\GRR.Service.deps.json
+E:\GRR\GRR\GRR.Service\bin\Debug\netcoreapp3.1\GRR.Service.dll
+E:\GRR\GRR\GRR.Service\bin\Debug\netcoreapp3.1\GRR.Service.pdb
+E:\GRR\GRR\GRR.Service\obj\Debug\netcoreapp3.1\GRR.Service.csprojAssemblyReference.cache
+E:\GRR\GRR\GRR.Service\obj\Debug\netcoreapp3.1\GRR.Service.AssemblyInfoInputs.cache
+E:\GRR\GRR\GRR.Service\obj\Debug\netcoreapp3.1\GRR.Service.AssemblyInfo.cs
+E:\GRR\GRR\GRR.Service\obj\Debug\netcoreapp3.1\GRR.Service.csproj.CoreCompileInputs.cache
+E:\GRR\GRR\GRR.Service\obj\Debug\netcoreapp3.1\GRR.Service.dll
+E:\GRR\GRR\GRR.Service\obj\Debug\netcoreapp3.1\GRR.Service.pdb
+E:\GRR\GRR\GRR.Service\bin\Debug\netcoreapp3.1\GRR.Data.dll
+E:\GRR\GRR\GRR.Service\bin\Debug\netcoreapp3.1\GRR.Data.pdb
+E:\GRR\GRR\GRR.Service\obj\Debug\netcoreapp3.1\GRR.Service.csproj.CopyComplete

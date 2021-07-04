@@ -1,0 +1,12 @@
+E:\GRR\GRR\GRR.Models\bin\Debug\netcoreapp3.1\GRR.Models.deps.json
+E:\GRR\GRR\GRR.Models\bin\Debug\netcoreapp3.1\GRR.Models.runtimeconfig.json
+E:\GRR\GRR\GRR.Models\bin\Debug\netcoreapp3.1\GRR.Models.runtimeconfig.dev.json
+E:\GRR\GRR\GRR.Models\bin\Debug\netcoreapp3.1\GRR.Models.dll
+E:\GRR\GRR\GRR.Models\bin\Debug\netcoreapp3.1\GRR.Models.pdb
+E:\GRR\GRR\GRR.Models\obj\Debug\netcoreapp3.1\GRR.Models.csprojAssemblyReference.cache
+E:\GRR\GRR\GRR.Models\obj\Debug\netcoreapp3.1\GRR.Models.AssemblyInfoInputs.cache
+E:\GRR\GRR\GRR.Models\obj\Debug\netcoreapp3.1\GRR.Models.AssemblyInfo.cs
+E:\GRR\GRR\GRR.Models\obj\Debug\netcoreapp3.1\GRR.Models.csproj.CoreCompileInputs.cache
+E:\GRR\GRR\GRR.Models\obj\Debug\netcoreapp3.1\GRR.Models.dll
+E:\GRR\GRR\GRR.Models\obj\Debug\netcoreapp3.1\GRR.Models.pdb
+E:\GRR\GRR\GRR.Models\obj\Debug\netcoreapp3.1\GRR.Models.genruntimeconfig.cache

@@ -1,0 +1,1 @@
+Scaffold-DbContext -Connection name=GRR Microsoft.EntityFrameworkCore.SqlServer -Project GRR.Data  -StartupProject GRR.Api -context GRR -ContextDir BaseContext  -OutputDir Models
